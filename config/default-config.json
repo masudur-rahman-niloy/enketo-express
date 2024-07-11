@@ -105,7 +105,7 @@
     },
     "logo": {
         "source": "/image/white_logo.png",
-        "href": ""
+        "href": "/image/white_logo.png"
     },
     "disable save as draft": false,
     "repeat ordinals": false,
