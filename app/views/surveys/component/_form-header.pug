@@ -8,11 +8,11 @@ header.form-header
     if (logo.href)
       a.form-header__branding(href=`${logo.href || '#'}`)
         .logo-wrapper
-          img(src='/image/white_logo.jpg', alt="brand logo")
+          img(src='/images/white_logo.jpg', alt="brand logo")
     else
       .form-header__branding
         .logo-wrapper
-          img(src='/image/white_logo.jpg', alt="brand logo")
+          img(src='/images/white_logo.jpg', alt="brand logo")
   .form-header__filler
   button.form-header__button--print.btn-bg-icon-only(onclick="return false;")
   span.form-language-selector.hide: span(data-i18n='form.chooseLanguage')= t('form.chooseLanguage')
