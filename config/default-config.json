@@ -104,8 +104,8 @@
         }
     },
     "logo": {
-        "source": "/image/white_logo.png",
-        "href": "/image/white_logo.png"
+        "source": "/image/white_logo.jpg",
+        "href": "/image/white_logo.jpg"
     },
     "disable save as draft": false,
     "repeat ordinals": false,
